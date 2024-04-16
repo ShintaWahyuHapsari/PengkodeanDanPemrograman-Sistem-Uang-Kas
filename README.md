@@ -5,7 +5,7 @@ Shinta Wahyu Hapsari
 
 Akuntansi
 
-Pengkodean dan Pemrograman - E
+Pengkodean dan Pemrograman - Kelas E
 
 # Pengkodean dan Pemrograman-Sistem-Uang-Kas
 Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya. 
@@ -26,26 +26,22 @@ Administrator:
 
 #   Perbandingan GitHub Referrensi dengan GitHub Pribadi
 1. Perbandingan 1
-   - Logo yang tercantum pada tab web dan 
+   - Logo yang tertelihat pada tab web dan tampilan dashboard (Simbol A --> Logo KSPM)
 ![before_1](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ebeccb90-a523-4556-ba6a-63f517c96da9)
 ![after_1](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ad4bb36c-62fb-4334-a5f8-4afacb9bfb3a)
 
+2. Perbandingan 2
+   - Background tampilan halaman Login berbeda
+   - Judul box username dan password (UANG KAS-->LOGIN)
+   - Warna Box dari putih menjadi merah transparant
+![Before_2](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ac5f4ec7-d6a7-4edb-a4c0-2560a9b28e37)
+![After_2](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/44f0eea8-14f7-4bcf-9670-3e6cd53581b0)
 
+3. Perbandingan 3
+   - Password your insert is false!-->Password Incorrect!
+   - Check your password BACK! --> Please, check your password again!
+![Before_3](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/2a4150f8-39bf-45ea-b80e-fd33ead991a8)
+![After_3](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/f74c4132-925b-412b-82ad-802c0379a81d)
 
-# Structure PHPMyAdmin
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Bulan_pembayaran.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Jabatan.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Pengeluaran.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Riwayat.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Riwayat_pengeluaran.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Siswa.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Uang_kas.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/User.png?raw=true)
-
-# Designer PHPMyAdmin
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Designer.png?raw=true)
-
-
-# Flowchart Penggunaan Aplikasi
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Flowchart_uang_kas.drawio.png?raw=true)
+# Entity Relationship Diagram
+![Entity Relationship Diagram](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/b70c6a1a-d3c0-4b12-bbcb-f98b73a9422b)
