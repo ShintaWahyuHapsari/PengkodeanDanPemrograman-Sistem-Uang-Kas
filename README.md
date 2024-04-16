@@ -26,7 +26,7 @@ Administrator:
 
 #   Perbandingan GitHub Referrensi dengan GitHub Pribadi
 1. Perbandingan 1
-   
+   - Logo yang tercantum pada tab web dan 
 ![before_1](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ebeccb90-a523-4556-ba6a-63f517c96da9)
 ![after_1](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ad4bb36c-62fb-4334-a5f8-4afacb9bfb3a)
 
