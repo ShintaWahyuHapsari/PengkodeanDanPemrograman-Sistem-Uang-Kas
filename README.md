@@ -24,13 +24,13 @@ Administrator:
 ❥ Password: 123456
 
 
-# Tampilan Aplikasi 
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20154312.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151642.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151701.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151810.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151833.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151850.png?raw=true)
+#   Perbandingan GitHub Referrensi dengan GitHub Pribadi
+1. Perbandingan 1
+   
+![before_1](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ebeccb90-a523-4556-ba6a-63f517c96da9)
+![after_1](https://github.com/ShintaWahyuHapsari/PengkodeanDanPemrograman-Sistem-Uang-Kas/assets/110757082/ad4bb36c-62fb-4334-a5f8-4afacb9bfb3a)
+
+
 
 # Structure PHPMyAdmin
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
